@@ -35,4 +35,3 @@ const spaceMobile = document.getElementById('btn_mobile')
 function spaceMenu() {
   const header = document.getElementById('header')
 }
-
